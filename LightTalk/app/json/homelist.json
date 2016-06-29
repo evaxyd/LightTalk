@@ -1,0 +1,48 @@
+{
+    "status": 1,
+    "list": [
+        {
+            "id": "1",
+            "image": "http://localhost:8081/app/image/1.jpg",
+            "text": "你好你好你好你好你好你好",
+            "username": "张三",
+            "userImg": "http://localhost:8081/app/image/3.jpg",
+            "time": "12:09:09"
+        },
+        {
+            "id": "2",
+            "image": [
+            	"http://localhost:8081/app/image/2.jpg",
+            	"http://localhost:8081/app/image/3.jpg"
+            ],
+            "text": "你好你好你好",
+            "username": "李四",
+            "userImg": "http://localhost:8081/app/image/4.jpg",
+            "time": "12:28:09"
+        },
+        {
+            "id": "3",
+            "image": "http://localhost:8081/app/image/4.jpg",
+            "text": "你好你你好你好你好你好你好你好好你好",
+            "username": "王二麻子",
+            "userImg": "http://localhost:8081/app/image/2.jpg",
+            "time": "12:28:09"
+        },
+        {
+            "id": "4",
+            "image": "http://localhost:8081/app/image/4.jpg",
+            "text": "你好你好你好",
+            "username": "李四",
+            "userImg": "http://localhost:8081/app/image/5.jpg",
+            "time": "12:28:09"
+        },
+        {
+            "id": "5",
+            "image": "http://localhost:8081/app/image/5.jpg",
+            "text": "你好你好你好",
+            "username": "李四",
+            "userImg": "http://localhost:8081/app/image/1.jpg",
+            "time": "12:28:09"
+        }
+    ]
+}
